@@ -1,172 +1,86 @@
-#EXTINF:-1,***** FR FRANCE *****
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/796.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 10
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/889.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CINE CLASSIC
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/879.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | Cine Polar
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/878.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | TF1 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/882.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 9
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/890.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | OCS MAX HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/888.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 7
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/892.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | InfoSport+
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/857.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | M6 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/858.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | SERIE CLUB HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/859.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL J
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/868.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | FRANCE O HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/903.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | FRANCE 2 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/902.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | FRANCE 3 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/901.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | FRANCE 4 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/900.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | FRANCE 5
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/899.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 1
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/898.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 2
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/897.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | TMC
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/860.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CINE  FRISSON HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/873.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | D17 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/880.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 3
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/896.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 4
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/895.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 5
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/894.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CINE+ FAMILY HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/874.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | NRJ 12 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/866.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | Voyage
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/867.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | Foot+ 24 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/861.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | NT 1
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/863.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | DÄ°SCOVERY SCÄ°ENCE HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/884.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CINE FX
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/876.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | ANIMAUX HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/862.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/885.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CINE+ PREMIER HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/877.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | RTL9
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/881.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | ARTE HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/872.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CHERÄ°E 25
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/871.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | OCS City
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/887.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | OCS CHOC HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/886.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CINE+ Emotion HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/875.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 8
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/891.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | Cartoon NetWork
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/865.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | Teva HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/855.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | AB1 HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/856.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | Discovery HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/854.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | L'EQUIPE 21
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/883.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | A LA CARTE 6
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/893.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | HD1
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/835.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | WEO
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2523.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | W9
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2500.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | USHUAIA HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2519.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | TV BREITZ
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2521.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | TELETOON HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2515.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | SYFY HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2537.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | RMC DECOUVERTE
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2527.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | PLANETE HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2526.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | PLANETE  CI HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2525.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | PIWI
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2518.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | NAT GEO WILD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2524.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | MANGAS
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2508.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | M6 MUSIC
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2502.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | I TELE
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2528.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | GULLI HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2511.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | GONG
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2514.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | FRANCE 24
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2529.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | EQUIDIA LIVE HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2532.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | DISNEY XD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2513.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | DISNEY Channel
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2509.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | D8
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2501.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CHASSE ET PECHE
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2504.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL SPORT HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2539.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL PLAY 4
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2550.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL PLAY 3
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2549.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL PLAY 2
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2548.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL PLAY 1
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2547.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2540.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | CANAL DECALE HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2538.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | BFM TV
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2530.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | ACTION
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2536.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | AB3
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2544.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | AB MOTEURS HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2533.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | 6TER HD
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2546.ts&streamtype=TSDOWNLOADER
-#EXTINF:-1,FR | 13 EME RUE
-plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/leventimbis/cyWQF2AQUD/2543.ts&streamtype=TSDOWNLOADER
-
+#EXTM3U //// BEIN SPORTS////
+#EXTINF:-1,BEIN|BEIN SPORT 1 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3145.ts
+#EXTINF:-1,BEIN|BEIN SPORT 2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3143.ts
+#EXTINF:-1,BEIN|BEIN SPORT 3 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3142.ts
+#EXTINF:-1,BEIN|BEIN SPORT 4 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3141.ts
+#EXTINF:-1,BEIN|BEIN SPORT 5 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3140.ts
+#EXTINF:-1,BEIN|BEIN SPORT 6 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3139.ts
+#EXTINF:-1,BEIN|BEIN SPORT 7 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3138.ts
+#EXTINF:-1,BEIN|BEIN SPORT 8 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3137.ts
+#EXTINF:-1,BEIN|BEIN SPORT 9 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3136.ts
+#EXTINF:-1,BEIN|BEIN SPORT 10 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3144.ts
+#EXTINF:-1,AR_B_SPORTS_1_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/186.ts
+#EXTINF:-1,AR_B_SPORTS_2_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/187.ts
+#EXTINF:-1,AR_B_SPORTS_3_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/188.ts
+#EXTINF:-1,AR_B_SPORTS_4_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/189.ts
+#EXTINF:-1,AR_B_SPORTS_5_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/190.ts
+#EXTINF:-1,AR_B_SPORTS_6_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/191.ts
+#EXTINF:-1,AR_B_SPORTS_7_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/192.ts
+#EXTINF:-1,AR_B_SPORTS_8_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/193.ts
+#EXTINF:-1,AR_B_SPORTS_9_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/194.ts
+#EXTINF:-1,AR_B_SPORTS_10_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/195.ts
+#EXTINF:-1,AR_B_SPORTS_11_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/196.ts
+#EXTINF:-1,AR_B_SPORTS_12_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/197.ts
+#EXTINF:-1,AR_B_SPORTS_13_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/451.ts
+#EXTINF:-1,AR_B_SPORTS_14_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/452.ts
+#EXTINF:-1,AR_B_SPORTS_15_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/453.ts
+#EXTINF:-1,AR_B_SPORTS_16_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1230.ts
+#EXTINF:-1,AR_B_MOVIES_1HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1279.ts
+#EXTINF:-1,AR_B_MOVIES_2HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/28.ts
+#EXTINF:-1,AR_B_MOVIES_3HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1284.ts
+#EXTINF:-1,AR_B_MOVIES_4HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1287.ts
+#EXTINF:-1,AR -- BeinHD Sports HD1
+http://localhd.tv:8081/live/pedro/skype/892.ts
+#EXTINF:-1,AR: BEIN Sports 1 HD
+http://localhd.tv:8081/live/pedro/skype/281.ts
+#EXTINF:-1,AR -- BeinHD Sports HD2
+http://localhd.tv:8081/live/pedro/skype/890.ts
+#EXTINF:-1,AR: BEIN Sports 2 HD
+http://localhd.tv:8081/live/pedro/skype/282.ts
+#EXTINF:-1,AR -- BeinHD Sports HD3
+http://localhd.tv:8081/live/pedro/skype/889.ts
+#EXTINF:-1,AR: BEIN Sports 3 HD
+http://localhd.tv:8081/live/pedro/skype/283.ts
+#EXTINF:-1,AR -- BeinHD Sports HD4
+http://localhd.tv:8081/live/pedro/skype/888.ts
+#EXTINF:-1,AR: BEIN Sports 4 HD
+http://localhd.tv:8081/live/pedro/skype/284.ts
+#EXTINF:-1,AR -- BeinHD Sports HD5
+http://localhd.tv:8081/live/pedro/skype/887.ts
+#EXTINF:-1,AR: BEIN Sports 5 HD
+http://localhd.tv:8081/live/pedro/skype/351.ts
+#EXTINF:-1,AR -- BeinHD Sports HD6
+http://localhd.tv:8081/live/pedro/skype/886.ts
 
 
 
